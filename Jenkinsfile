@@ -26,7 +26,7 @@ pipeline {
         
         stage('Deploy') {
             steps {
-                echo 'The software will now be deployed!'
+                echo 'The software willl now be deployed!'
             }
         }
     }    
